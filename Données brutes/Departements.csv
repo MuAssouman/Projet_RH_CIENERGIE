@@ -1,0 +1,8 @@
+ID_Departement,Nom_Departement,ID_Site
+1,Ressources Humaine,101
+2,Technique,102
+3,Finance,103
+4,Logistique,101
+5,ressources humaine,104
+6,Techinque,INVALID
+12,Inconnu,1000

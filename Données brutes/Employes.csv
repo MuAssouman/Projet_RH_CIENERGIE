@@ -1,0 +1,11 @@
+ID_Employe,Nom,Prenom,Sexe,Date_Naissance,Date_Embauche,ID_Departement,Poste,Statut_Contrat
+1,KONE,Awa,F,1988-05-14,2005-03-01,1,Resposable RH,CDI
+2,TRAORE,Ibrahima,M,1992-08-23,1990-01-01,2,Electricien,CDD
+3,DIALLO,Mariama,F,,2017-10-15,3,Analyste RH,CDD
+4,SANGARE,Moussa,H,1984-11-19,2012-12-01,,Technicien réseau,CDI
+5,COULIBALY,Adama,M,1989-07-30,2015-06-25,2,elecricien,CDI
+6,N'DA,Jean,M,1991-12-12,2016-03-15,4,chauffeur,CDD
+7,DOSSO,Aicha,F,1979-03-22,2008-09-20,1,Assitant RH,CDI
+8,KOUAME,Serge,M,1990-10-01,invalid,3,Responsable RH,CDI
+9,YAO,Monique,F,1985-01-17,2011-07-18,4,Electricienne,CDI
+10,TAPE,,M,1987-06-04,2013-04-01,1,Analyste RH,CDD

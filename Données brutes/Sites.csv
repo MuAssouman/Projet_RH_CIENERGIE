@@ -1,0 +1,8 @@
+ID_Site,Nom_Site,Zone,Region,Commune
+101,Abobo Est,Zone 1,Abidjan,Abobo
+102,Yamoussoukro Centre,Zone1,Yamoussoukro,Yamoussoukro
+103,Bouaké Nord,Zone_2,Bouaké,Bouaké
+104,San Pedro Sud,Zone 3,San Pedro,San-Pedro
+105,Man Ouest,Zonne 3,Man,Man
+106,Abengourou Est,Zone_4,,Abengourou
+1000,Inconnu,Zone Inconnue,Commune Inconnue

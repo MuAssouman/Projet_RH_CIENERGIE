@@ -1,0 +1,11 @@
+ID_Evaluation,ID_Employe,Annee,Score_Competence,Score_Comportement,Commentaire_Manager
+E001,1,2023,85,90,Bien dans l'ensemble
+E002,2,2022,102,88,RAS
+E003,3,2023,75,NaN,À améliorer
+E004,4,2020,,70,Bon potentiel
+E005,5,2019,80,78,
+E006,6,2021,88,95,Excellent travail
+E007,7,2023,79,85,Forte implication
+E008,8,2018,110,105,Exceptionnel mais à encadrer
+E009,9,2020,65,60,Marge de progression
+E010,10,2021,invalid,72,Besoin de formation

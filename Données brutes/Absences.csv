@@ -1,0 +1,12 @@
+ID_Absence,ID_Employe,Date_Absence,Type_Absence,Heures_Absence
+A001,1,2023-02-14,Maladie,8
+A002,2,2018-07-20,retard,-1
+A003,3,2019-05-01,Conge,8
+A004,4,2021-09-10,maladie,9
+A005,5,2020-13-12,Retard,200
+A006,6,2022-06-25,,4
+A007,7,2017-11-03,Conge,999
+A008,8,2023-03-14,Maladie,8
+A009,9,invalid,Retard,100
+A010,1,2024-02-14,Maladie,8
+A011,7,2019-11-03,Conge,10
